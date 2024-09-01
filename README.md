@@ -8,7 +8,7 @@ https://github.com/alpaca-htt/Design-works/tree/master/作品
 
 ## AICG_Comfy UI_电商产品遮挡渲染
 
-![1](https://github.com/alpaca-htt/Design-works/blob/master/AICG_Comfy%20UI/assets/E-commerce products are obscured and rendered.png)
+![1](https://github.com/alpaca-htt/Design-works/blob/master/AICG_Comfy%20UI/assets/E-commerce%20products%20are%20obscured%20and%20rendered.png)
 
 #### 一、项目落地过程
 
@@ -94,7 +94,7 @@ https://github.com/alpaca-htt/Design-works/tree/master/作品
 
 ## AICG_Comfy UI_电商穿戴工作流
 
-![1](https://github.com/alpaca-htt/Design-works/blob/master/AICG_Comfy%20UI/assets/workflow (1).png)
+![1](https://github.com/alpaca-htt/Design-works/blob/master/AICG_Comfy%20UI/assets/workflow%20(1).png)
 
 #### 一、项目落地过程
 
