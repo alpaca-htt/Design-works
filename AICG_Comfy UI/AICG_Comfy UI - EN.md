@@ -1,6 +1,6 @@
 #### Links to traditional design works：
 
-https://github.com/alpaca-htt/Amazon-EC2-docker-deployment/tree/master/assets
+https://github.com/alpaca-htt/Design-works/tree/master/作品
 
 ## AICG_Comfy UI_ e-commerce products are obscured and rendered
 
