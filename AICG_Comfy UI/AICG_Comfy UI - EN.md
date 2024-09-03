@@ -1,10 +1,10 @@
 #### Links to traditional design works：
 
-https://github.com/alpaca-htt/Amazon-EC2-docker-deployment/tree/master/assets
+https://github.com/alpaca-htt/Design-works/tree/master/作品
 
 ## AICG_Comfy UI_ e-commerce products are obscured and rendered
 
-<img src="assets/E-commerce products are obscured and rendered.png" />
+![image-20240903151834899](assets/image-20240903151834899.png)
 
 #### The project implementation process
 
@@ -78,7 +78,7 @@ Requirements: E-commerce product background rendering workflow, which was later 
 
 ## AICG_Comfy UI_ e-commerce wearable workflows
 
-<img src="assets/workflow (1).png" />
+![image-20240903152059221](assets/image-20240903152059221.png)
 
 #### The project implementation process
 

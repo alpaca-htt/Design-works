@@ -1,14 +1,14 @@
 #### Click here for instructions in English：
 
-https://github.com/alpaca-htt/Amazon-EC2-docker-deployment/tree/master/assets
+[https://github.com/alpaca-htt/Design-works/blob/master/AICG_Comfy%20UI/AICG_Comfy%20UI%20-%20EN.md](https://github.com/alpaca-htt/Design-works/blob/master/AICG_Comfy UI/AICG_Comfy UI - EN.md)
 
 #### 传统设计作品链接：
 
-https://github.com/alpaca-htt/Amazon-EC2-docker-deployment/tree/master/assets
+https://github.com/alpaca-htt/Design-works/tree/master/作品
 
 ## AICG_Comfy UI_电商产品遮挡渲染
 
-![1](assets/E-commerce products are obscured and rendered.png)
+![image-20240903151811199](assets/image-20240903151811199.png)
 
 #### 一、项目落地过程
 
@@ -94,7 +94,7 @@ https://github.com/alpaca-htt/Amazon-EC2-docker-deployment/tree/master/assets
 
 ## AICG_Comfy UI_电商穿戴工作流
 
-![1](assets/workflow (1).png)
+![image-20240903152017306](assets/image-20240903152017306.png)
 
 #### 一、项目落地过程
 
